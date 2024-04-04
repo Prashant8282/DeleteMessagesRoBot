@@ -1,1 +1,1 @@
-worker@1: python -m bot
+worker1: python -m bot
